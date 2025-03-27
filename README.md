@@ -166,7 +166,7 @@ P.S.: если при запуске некоторые контейнеры б�
 `./data:/var/lib:Z`
 #
 ![alt text](https://github.com/VN351/mon02/raw/main/images/1-1.jpg)
-![alt text](https://github.com/VN351/mon02/raw/main/images/1-2.jpg)
+![alt text](https://github.com/VN351/mon02/raw/main/images/1-22.jpg)
 
 
 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.

@@ -134,6 +134,7 @@
 #
   - Prometheus  
     Pull (основная модель), но есть возможность использовать и Push через дополнительный компонент — Pushgateway.  
+  
   Итог: Pull (основная), но возможен гибридный подход.
 
   - TICK stack (Telegraf, InfluxDB, Chronograf, Kapacitor)    

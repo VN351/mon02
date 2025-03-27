@@ -164,8 +164,8 @@
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 `./data:/var/lib:Z`
 #
-![alt text](https://github.com/VN351/mon02/raw/main/images/task-1-1.jpg)
-![alt text](https://github.com/VN351/mon02/raw/main/images/task-1-2.jpg)
+![alt text](https://github.com/VN351/mon02/raw/main/images/1-1.jpg)
+![alt text](https://github.com/VN351/mon02/raw/main/images/1-2.jpg)
 
 
 8. Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
@@ -177,7 +177,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 Для выполнения задания приведите скриншот с отображением метрик утилизации cpu из веб-интерфейса.
 #
-![alt text](https://github.com/VN351/mon02/raw/main/images/task-2-1.jpeg)
+![alt text](https://github.com/VN351/mon02/raw/main/images/2-1.jpeg)
 
 9. Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
 Добавьте в конфигурацию telegraf следующий плагин - [docker](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/docker):
@@ -208,7 +208,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 Факультативно можете изучить какие метрики собирает telegraf после выполнения данного задания.
 
-![alt text](https://github.com/VN351/mon02/raw/main/images/task-3-1.jpeg)
+![alt text](https://github.com/VN351/mon02/raw/main/images/3-1.jpeg)
 
 ## Дополнительное задание (со звездочкой*) - необязательно к выполнению
 
